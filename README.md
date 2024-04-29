@@ -1,2 +1,3 @@
 # PONG-clone
-A clone of an classic Arcade game ponng
+A clone of an classic Arcade game pong
+
